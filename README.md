@@ -1,2 +1,2 @@
-# Cluster-ASTE
-Pre-trained Clustering for Aspect Sentiment Triplet Extraction
+# Pre-trained Clustering for Aspect Sentiment Triplet Extraction
+
