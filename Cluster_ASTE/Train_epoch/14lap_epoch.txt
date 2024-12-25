@@ -1,0 +1,655 @@
+#MLP 4layer word+pos dim128+128
+Epoch [1/50], Loss: 3.2908
+Epoch [1/50], Silhouette Score: 0.3330
+Epoch [1/50], NMI Score: 0.1587
+Epoch [1/50], ARI Score: 0.1301
+Epoch [2/50], Loss: 3.1077
+Epoch [2/50], Silhouette Score: 0.4238
+Epoch [2/50], NMI Score: 0.2030
+Epoch [2/50], ARI Score: 0.3125
+Epoch [3/50], Loss: 3.0456
+Epoch [3/50], Silhouette Score: 0.4733
+Epoch [3/50], NMI Score: 0.2142
+Epoch [3/50], ARI Score: 0.3526
+Epoch [4/50], Loss: 2.9943
+Epoch [4/50], Silhouette Score: 0.5173
+Epoch [4/50], NMI Score: 0.2067
+Epoch [4/50], ARI Score: 0.2390
+Epoch [5/50], Loss: 2.9807
+Epoch [5/50], Silhouette Score: 0.5227
+Epoch [5/50], NMI Score: 0.2164
+Epoch [5/50], ARI Score: 0.2666
+Epoch [6/50], Loss: 2.9516
+Epoch [6/50], Silhouette Score: 0.5546
+Epoch [6/50], NMI Score: 0.2363
+Epoch [6/50], ARI Score: 0.3836
+Epoch [7/50], Loss: 2.9348
+Epoch [7/50], Silhouette Score: 0.5668
+Epoch [7/50], NMI Score: 0.2463
+Epoch [7/50], ARI Score: 0.3753
+Epoch [8/50], Loss: 2.9023
+Epoch [8/50], Silhouette Score: 0.5913
+Epoch [8/50], NMI Score: 0.2543
+Epoch [8/50], ARI Score: 0.4209
+Epoch [9/50], Loss: 2.8801
+Epoch [9/50], Silhouette Score: 0.5654
+Epoch [9/50], NMI Score: 0.2648
+Epoch [9/50], ARI Score: 0.3831
+Epoch [10/50], Loss: 2.8671
+Epoch [10/50], Silhouette Score: 0.5888
+Epoch [10/50], NMI Score: 0.2609
+Epoch [10/50], ARI Score: 0.3666
+Epoch [11/50], Loss: 2.8434
+Epoch [11/50], Silhouette Score: 0.6182
+Epoch [11/50], NMI Score: 0.2824
+Epoch [11/50], ARI Score: 0.4377
+Epoch [12/50], Loss: 2.8003
+Epoch [12/50], Silhouette Score: 0.6185
+Epoch [12/50], NMI Score: 0.2906
+Epoch [12/50], ARI Score: 0.4611
+Epoch [13/50], Loss: 2.7909
+Epoch [13/50], Silhouette Score: 0.6293
+Epoch [13/50], NMI Score: 0.3056
+Epoch [13/50], ARI Score: 0.4981
+Epoch [14/50], Loss: 2.7542
+Epoch [14/50], Silhouette Score: 0.6307
+Epoch [14/50], NMI Score: 0.3289
+Epoch [14/50], ARI Score: 0.5306
+Epoch [15/50], Loss: 2.7300
+Epoch [15/50], Silhouette Score: 0.6187
+Epoch [15/50], NMI Score: 0.3363
+Epoch [15/50], ARI Score: 0.5169
+Epoch [16/50], Loss: 2.6986
+Epoch [16/50], Silhouette Score: 0.6432
+Epoch [16/50], NMI Score: 0.3312
+Epoch [16/50], ARI Score: 0.4526
+Epoch [17/50], Loss: 2.6790
+Epoch [17/50], Silhouette Score: 0.6180
+Epoch [17/50], NMI Score: 0.3523
+Epoch [17/50], ARI Score: 0.4491
+Epoch [18/50], Loss: 2.6453
+Epoch [18/50], Silhouette Score: 0.6403
+Epoch [18/50], NMI Score: 0.3839
+Epoch [18/50], ARI Score: 0.5981
+Epoch [19/50], Loss: 2.6161
+Epoch [19/50], Silhouette Score: 0.6203
+Epoch [19/50], NMI Score: 0.3503
+Epoch [19/50], ARI Score: 0.4227
+Epoch [20/50], Loss: 2.5869
+Epoch [20/50], Silhouette Score: 0.6680
+Epoch [20/50], NMI Score: 0.4096
+Epoch [20/50], ARI Score: 0.6145
+Epoch [21/50], Loss: 2.5493
+Epoch [21/50], Silhouette Score: 0.6943
+Epoch [21/50], NMI Score: 0.4229
+Epoch [21/50], ARI Score: 0.6388
+Epoch [22/50], Loss: 2.5243
+Epoch [22/50], Silhouette Score: 0.6693
+Epoch [22/50], NMI Score: 0.4297
+Epoch [22/50], ARI Score: 0.6206
+Epoch [23/50], Loss: 2.4989
+Epoch [23/50], Silhouette Score: 0.6724
+Epoch [23/50], NMI Score: 0.4290
+Epoch [23/50], ARI Score: 0.5901
+Epoch [24/50], Loss: 2.4641
+Epoch [24/50], Silhouette Score: 0.6914
+Epoch [24/50], NMI Score: 0.4538
+Epoch [24/50], ARI Score: 0.6443
+Epoch [25/50], Loss: 2.4372
+Epoch [25/50], Silhouette Score: 0.6985
+Epoch [25/50], NMI Score: 0.4827
+Epoch [25/50], ARI Score: 0.6690
+Epoch [26/50], Loss: 2.4108
+Epoch [26/50], Silhouette Score: 0.7068
+Epoch [26/50], NMI Score: 0.5082
+Epoch [26/50], ARI Score: 0.7200
+Epoch [27/50], Loss: 2.3718
+Epoch [27/50], Silhouette Score: 0.7225
+Epoch [27/50], NMI Score: 0.5298
+Epoch [27/50], ARI Score: 0.7411
+Epoch [28/50], Loss: 2.3336
+Epoch [28/50], Silhouette Score: 0.6998
+Epoch [28/50], NMI Score: 0.5085
+Epoch [28/50], ARI Score: 0.6384
+Epoch [29/50], Loss: 2.3176
+Epoch [29/50], Silhouette Score: 0.7289
+Epoch [29/50], NMI Score: 0.5500
+Epoch [29/50], ARI Score: 0.7823
+Epoch [30/50], Loss: 2.2825
+Epoch [30/50], Silhouette Score: 0.7419
+Epoch [30/50], NMI Score: 0.5596
+Epoch [30/50], ARI Score: 0.7623
+Epoch [31/50], Loss: 2.2564
+Epoch [31/50], Silhouette Score: 0.7383
+Epoch [31/50], NMI Score: 0.5777
+Epoch [31/50], ARI Score: 0.8080
+Epoch [32/50], Loss: 2.2344
+Epoch [32/50], Silhouette Score: 0.7278
+Epoch [32/50], NMI Score: 0.5922
+Epoch [32/50], ARI Score: 0.7777
+Epoch [33/50], Loss: 2.2156
+Epoch [33/50], Silhouette Score: 0.7444
+Epoch [33/50], NMI Score: 0.5759
+Epoch [33/50], ARI Score: 0.7950
+Epoch [34/50], Loss: 2.1893
+Epoch [34/50], Silhouette Score: 0.7488
+Epoch [34/50], NMI Score: 0.5977
+Epoch [34/50], ARI Score: 0.7614
+Epoch [35/50], Loss: 2.1736
+Epoch [35/50], Silhouette Score: 0.6959
+Epoch [35/50], NMI Score: 0.5440
+Epoch [35/50], ARI Score: 0.6063
+Epoch [36/50], Loss: 2.1372
+Epoch [36/50], Silhouette Score: 0.7734
+Epoch [36/50], NMI Score: 0.6381
+Epoch [36/50], ARI Score: 0.8470
+Epoch [37/50], Loss: 2.1171
+Epoch [37/50], Silhouette Score: 0.7561
+Epoch [37/50], NMI Score: 0.6328
+Epoch [37/50], ARI Score: 0.8185
+Epoch [38/50], Loss: 2.1031
+Epoch [38/50], Silhouette Score: 0.7819
+Epoch [38/50], NMI Score: 0.6482
+Epoch [38/50], ARI Score: 0.8545
+Epoch [39/50], Loss: 2.0924
+Epoch [39/50], Silhouette Score: 0.7900
+Epoch [39/50], NMI Score: 0.6568
+Epoch [39/50], ARI Score: 0.8604
+Epoch [40/50], Loss: 2.0841
+Epoch [40/50], Silhouette Score: 0.7883
+Epoch [40/50], NMI Score: 0.6734
+Epoch [40/50], ARI Score: 0.8618
+Epoch [41/50], Loss: 2.0446
+Epoch [41/50], Silhouette Score: 0.7823
+Epoch [41/50], NMI Score: 0.6840
+Epoch [41/50], ARI Score: 0.8741
+Epoch [42/50], Loss: 2.0277
+Epoch [42/50], Silhouette Score: 0.7489
+Epoch [42/50], NMI Score: 0.6796
+Epoch [42/50], ARI Score: 0.7576
+Epoch [43/50], Loss: 2.0266
+Epoch [43/50], Silhouette Score: 0.7897
+Epoch [43/50], NMI Score: 0.6912
+Epoch [43/50], ARI Score: 0.8867
+Epoch [44/50], Loss: 2.0190
+Epoch [44/50], Silhouette Score: 0.7822
+Epoch [44/50], NMI Score: 0.6672
+Epoch [44/50], ARI Score: 0.8620
+Epoch [45/50], Loss: 2.0055
+Epoch [45/50], Silhouette Score: 0.7833
+Epoch [45/50], NMI Score: 0.6897
+Epoch [45/50], ARI Score: 0.8080
+Epoch [46/50], Loss: 1.9876
+Epoch [46/50], Silhouette Score: 0.7993
+Epoch [46/50], NMI Score: 0.6912
+Epoch [46/50], ARI Score: 0.8853
+Epoch [47/50], Loss: 1.9848
+Epoch [47/50], Silhouette Score: 0.8090
+Epoch [47/50], NMI Score: 0.7113
+Epoch [47/50], ARI Score: 0.9055
+Epoch [48/50], Loss: 1.9739
+Epoch [48/50], Silhouette Score: 0.7917
+Epoch [48/50], NMI Score: 0.7168
+Epoch [48/50], ARI Score: 0.9087
+Epoch [49/50], Loss: 1.9517
+Epoch [49/50], Silhouette Score: 0.7992
+Epoch [49/50], NMI Score: 0.7210
+Epoch [49/50], ARI Score: 0.9119
+Epoch [50/50], Loss: 1.9482
+Epoch [50/50], Silhouette Score: 0.7774
+Epoch [50/50], NMI Score: 0.7007
+Epoch [50/50], ARI Score: 0.7715
+
+#Using Stop_word
+Epoch [1/50], Loss: 3.2724
+Epoch [1/50], Silhouette Score: 0.3842
+Epoch [1/50], NMI Score: 0.1597
+Epoch [1/50], ARI Score: 0.1191
+Epoch [2/50], Loss: 3.1045
+Epoch [2/50], Silhouette Score: 0.4860
+Epoch [2/50], NMI Score: 0.1905
+Epoch [2/50], ARI Score: 0.2494
+Epoch [3/50], Loss: 3.0273
+Epoch [3/50], Silhouette Score: 0.5077
+Epoch [3/50], NMI Score: 0.2115
+Epoch [3/50], ARI Score: 0.3197
+Epoch [4/50], Loss: 3.0012
+Epoch [4/50], Silhouette Score: 0.5339
+Epoch [4/50], NMI Score: 0.2207
+Epoch [4/50], ARI Score: 0.3854
+Epoch [5/50], Loss: 2.9716
+Epoch [5/50], Silhouette Score: 0.5686
+Epoch [5/50], NMI Score: 0.2288
+Epoch [5/50], ARI Score: 0.4067
+Epoch [6/50], Loss: 2.9516
+Epoch [6/50], Silhouette Score: 0.5846
+Epoch [6/50], NMI Score: 0.2386
+Epoch [6/50], ARI Score: 0.3971
+Epoch [7/50], Loss: 2.9351
+Epoch [7/50], Silhouette Score: 0.5826
+Epoch [7/50], NMI Score: 0.2453
+Epoch [7/50], ARI Score: 0.4252
+Epoch [8/50], Loss: 2.9032
+Epoch [8/50], Silhouette Score: 0.5949
+Epoch [8/50], NMI Score: 0.2570
+Epoch [8/50], ARI Score: 0.4347
+Epoch [9/50], Loss: 2.8899
+Epoch [9/50], Silhouette Score: 0.5891
+Epoch [9/50], NMI Score: 0.2698
+Epoch [9/50], ARI Score: 0.4330
+Epoch [10/50], Loss: 2.8611
+Epoch [10/50], Silhouette Score: 0.5944
+Epoch [10/50], NMI Score: 0.2763
+Epoch [10/50], ARI Score: 0.4184
+Epoch [11/50], Loss: 2.8360
+Epoch [11/50], Silhouette Score: 0.5775
+Epoch [11/50], NMI Score: 0.2803
+Epoch [11/50], ARI Score: 0.3925
+Epoch [12/50], Loss: 2.8157
+Epoch [12/50], Silhouette Score: 0.6393
+Epoch [12/50], NMI Score: 0.2992
+Epoch [12/50], ARI Score: 0.5174
+Epoch [13/50], Loss: 2.7979
+Epoch [13/50], Silhouette Score: 0.6281
+Epoch [13/50], NMI Score: 0.3056
+Epoch [13/50], ARI Score: 0.5016
+Epoch [14/50], Loss: 2.7530
+Epoch [14/50], Silhouette Score: 0.6429
+Epoch [14/50], NMI Score: 0.3239
+Epoch [14/50], ARI Score: 0.5069
+Epoch [15/50], Loss: 2.7432
+Epoch [15/50], Silhouette Score: 0.6491
+Epoch [15/50], NMI Score: 0.3323
+Epoch [15/50], ARI Score: 0.5133
+Epoch [16/50], Loss: 2.7172
+Epoch [16/50], Silhouette Score: 0.6517
+Epoch [16/50], NMI Score: 0.3500
+Epoch [16/50], ARI Score: 0.5373
+Epoch [17/50], Loss: 2.6797
+Epoch [17/50], Silhouette Score: 0.6484
+Epoch [17/50], NMI Score: 0.3496
+Epoch [17/50], ARI Score: 0.4975
+Epoch [18/50], Loss: 2.6487
+Epoch [18/50], Silhouette Score: 0.6498
+Epoch [18/50], NMI Score: 0.3440
+Epoch [18/50], ARI Score: 0.4131
+Epoch [19/50], Loss: 2.6253
+Epoch [19/50], Silhouette Score: 0.6647
+Epoch [19/50], NMI Score: 0.3856
+Epoch [19/50], ARI Score: 0.6202
+Epoch [20/50], Loss: 2.5968
+Epoch [20/50], Silhouette Score: 0.6746
+Epoch [20/50], NMI Score: 0.4052
+Epoch [20/50], ARI Score: 0.6251
+Epoch [21/50], Loss: 2.5725
+Epoch [21/50], Silhouette Score: 0.6556
+Epoch [21/50], NMI Score: 0.3994
+Epoch [21/50], ARI Score: 0.5531
+Epoch [22/50], Loss: 2.5325
+Epoch [22/50], Silhouette Score: 0.6955
+Epoch [22/50], NMI Score: 0.4218
+Epoch [22/50], ARI Score: 0.6557
+Epoch [23/50], Loss: 2.4968
+Epoch [23/50], Silhouette Score: 0.7178
+Epoch [23/50], NMI Score: 0.4544
+Epoch [23/50], ARI Score: 0.6786
+Epoch [24/50], Loss: 2.4729
+Epoch [24/50], Silhouette Score: 0.7040
+Epoch [24/50], NMI Score: 0.4609
+Epoch [24/50], ARI Score: 0.6746
+Epoch [25/50], Loss: 2.4348
+Epoch [25/50], Silhouette Score: 0.6953
+Epoch [25/50], NMI Score: 0.4647
+Epoch [25/50], ARI Score: 0.6366
+Epoch [26/50], Loss: 2.4072
+Epoch [26/50], Silhouette Score: 0.7224
+Epoch [26/50], NMI Score: 0.4897
+Epoch [26/50], ARI Score: 0.6961
+Epoch [27/50], Loss: 2.3919
+Epoch [27/50], Silhouette Score: 0.6961
+Epoch [27/50], NMI Score: 0.4927
+Epoch [27/50], ARI Score: 0.6553
+Epoch [28/50], Loss: 2.3619
+Epoch [28/50], Silhouette Score: 0.7069
+Epoch [28/50], NMI Score: 0.5157
+Epoch [28/50], ARI Score: 0.7088
+Epoch [29/50], Loss: 2.3310
+Epoch [29/50], Silhouette Score: 0.7044
+Epoch [29/50], NMI Score: 0.5213
+Epoch [29/50], ARI Score: 0.6228
+Epoch [30/50], Loss: 2.2870
+Epoch [30/50], Silhouette Score: 0.7308
+Epoch [30/50], NMI Score: 0.5504
+Epoch [30/50], ARI Score: 0.7296
+Epoch [31/50], Loss: 2.2657
+Epoch [31/50], Silhouette Score: 0.7239
+Epoch [31/50], NMI Score: 0.5569
+Epoch [31/50], ARI Score: 0.7239
+Epoch [32/50], Loss: 2.2498
+Epoch [32/50], Silhouette Score: 0.7579
+Epoch [32/50], NMI Score: 0.5884
+Epoch [32/50], ARI Score: 0.7934
+Epoch [33/50], Loss: 2.2285
+Epoch [33/50], Silhouette Score: 0.7642
+Epoch [33/50], NMI Score: 0.5991
+Epoch [33/50], ARI Score: 0.8127
+Epoch [34/50], Loss: 2.2078
+Epoch [34/50], Silhouette Score: 0.7642
+Epoch [34/50], NMI Score: 0.5901
+Epoch [34/50], ARI Score: 0.8165
+Epoch [35/50], Loss: 2.1605
+Epoch [35/50], Silhouette Score: 0.7634
+Epoch [35/50], NMI Score: 0.6119
+Epoch [35/50], ARI Score: 0.8109
+Epoch [36/50], Loss: 2.1563
+Epoch [36/50], Silhouette Score: 0.7632
+Epoch [36/50], NMI Score: 0.6308
+Epoch [36/50], ARI Score: 0.8319
+Epoch [37/50], Loss: 2.1214
+Epoch [37/50], Silhouette Score: 0.7949
+Epoch [37/50], NMI Score: 0.5910
+Epoch [37/50], ARI Score: 0.8206
+Epoch [38/50], Loss: 2.1026
+Epoch [38/50], Silhouette Score: 0.7871
+Epoch [38/50], NMI Score: 0.6263
+Epoch [38/50], ARI Score: 0.8474
+Epoch [39/50], Loss: 2.0971
+Epoch [39/50], Silhouette Score: 0.7468
+Epoch [39/50], NMI Score: 0.6027
+Epoch [39/50], ARI Score: 0.7704
+Epoch [40/50], Loss: 2.0756
+Epoch [40/50], Silhouette Score: 0.7698
+Epoch [40/50], NMI Score: 0.6538
+Epoch [40/50], ARI Score: 0.7964
+Epoch [41/50], Loss: 2.0530
+Epoch [41/50], Silhouette Score: 0.8097
+Epoch [41/50], NMI Score: 0.6736
+Epoch [41/50], ARI Score: 0.8746
+Epoch [42/50], Loss: 2.0481
+Epoch [42/50], Silhouette Score: 0.7722
+Epoch [42/50], NMI Score: 0.6749
+Epoch [42/50], ARI Score: 0.7869
+Epoch [43/50], Loss: 2.0380
+Epoch [43/50], Silhouette Score: 0.8067
+Epoch [43/50], NMI Score: 0.6904
+Epoch [43/50], ARI Score: 0.8785
+Epoch [44/50], Loss: 2.0301
+Epoch [44/50], Silhouette Score: 0.7601
+Epoch [44/50], NMI Score: 0.6714
+Epoch [44/50], ARI Score: 0.7122
+Epoch [45/50], Loss: 1.9916
+Epoch [45/50], Silhouette Score: 0.7886
+Epoch [45/50], NMI Score: 0.7002
+Epoch [45/50], ARI Score: 0.8865
+Epoch [46/50], Loss: 2.0035
+Epoch [46/50], Silhouette Score: 0.8120
+Epoch [46/50], NMI Score: 0.6959
+Epoch [46/50], ARI Score: 0.8939
+Epoch [47/50], Loss: 1.9848
+Epoch [47/50], Silhouette Score: 0.7991
+Epoch [47/50], NMI Score: 0.6980
+Epoch [47/50], ARI Score: 0.8982
+Epoch [48/50], Loss: 1.9703
+Epoch [48/50], Silhouette Score: 0.8198
+Epoch [48/50], NMI Score: 0.7177
+Epoch [48/50], ARI Score: 0.9093
+Epoch [49/50], Loss: 1.9569
+Epoch [49/50], Silhouette Score: 0.8181
+Epoch [49/50], NMI Score: 0.7226
+Epoch [49/50], ARI Score: 0.9118
+Epoch [50/50], Loss: 1.9595
+Epoch [50/50], Silhouette Score: 0.8102
+Epoch [50/50], NMI Score: 0.7165
+Epoch [50/50], ARI Score: 0.8904
+
+#ACC
+Epoch [1/50], Loss: 3.2779
+Epoch [1/50], Accuracy: 0.5636
+Epoch [1/50], Silhouette Score: 0.3406
+Epoch [1/50], NMI Score: 0.1637
+Epoch [1/50], ARI Score: 0.1655
+Epoch [2/50], Loss: 3.1080
+Epoch [2/50], Accuracy: 0.6792
+Epoch [2/50], Silhouette Score: 0.4216
+Epoch [2/50], NMI Score: 0.1970
+Epoch [2/50], ARI Score: 0.3374
+Epoch [3/50], Loss: 3.0269
+Epoch [3/50], Accuracy: 0.6698
+Epoch [3/50], Silhouette Score: 0.5068
+Epoch [3/50], NMI Score: 0.2142
+Epoch [3/50], ARI Score: 0.3402
+Epoch [4/50], Loss: 3.0023
+Epoch [4/50], Accuracy: 0.6494
+Epoch [4/50], Silhouette Score: 0.5432
+Epoch [4/50], NMI Score: 0.2217
+Epoch [4/50], ARI Score: 0.3083
+Epoch [5/50], Loss: 2.9721
+Epoch [5/50], Accuracy: 0.6606
+Epoch [5/50], Silhouette Score: 0.5508
+Epoch [5/50], NMI Score: 0.2307
+Epoch [5/50], ARI Score: 0.3297
+Epoch [6/50], Loss: 2.9465
+Epoch [6/50], Accuracy: 0.7161
+Epoch [6/50], Silhouette Score: 0.5650
+Epoch [6/50], NMI Score: 0.2369
+Epoch [6/50], ARI Score: 0.4127
+Epoch [7/50], Loss: 2.9273
+Epoch [7/50], Accuracy: 0.6260
+Epoch [7/50], Silhouette Score: 0.5712
+Epoch [7/50], NMI Score: 0.2331
+Epoch [7/50], ARI Score: 0.2831
+Epoch [8/50], Loss: 2.9088
+Epoch [8/50], Accuracy: 0.6911
+Epoch [8/50], Silhouette Score: 0.5885
+Epoch [8/50], NMI Score: 0.2528
+Epoch [8/50], ARI Score: 0.3881
+Epoch [9/50], Loss: 2.8886
+Epoch [9/50], Accuracy: 0.6720
+Epoch [9/50], Silhouette Score: 0.6013
+Epoch [9/50], NMI Score: 0.2566
+Epoch [9/50], ARI Score: 0.3584
+Epoch [10/50], Loss: 2.8635
+Epoch [10/50], Accuracy: 0.7143
+Epoch [10/50], Silhouette Score: 0.6264
+Epoch [10/50], NMI Score: 0.2656
+Epoch [10/50], ARI Score: 0.4149
+Epoch [11/50], Loss: 2.8450
+Epoch [11/50], Accuracy: 0.6275
+Epoch [11/50], Silhouette Score: 0.5815
+Epoch [11/50], NMI Score: 0.2600
+Epoch [11/50], ARI Score: 0.2906
+Epoch [12/50], Loss: 2.8274
+Epoch [12/50], Accuracy: 0.7106
+Epoch [12/50], Silhouette Score: 0.6234
+Epoch [12/50], NMI Score: 0.2834
+Epoch [12/50], ARI Score: 0.4210
+Epoch [13/50], Loss: 2.7984
+Epoch [13/50], Accuracy: 0.6275
+Epoch [13/50], Silhouette Score: 0.5767
+Epoch [13/50], NMI Score: 0.2682
+Epoch [13/50], ARI Score: 0.3004
+Epoch [14/50], Loss: 2.7795
+Epoch [14/50], Accuracy: 0.7723
+Epoch [14/50], Silhouette Score: 0.6467
+Epoch [14/50], NMI Score: 0.3055
+Epoch [14/50], ARI Score: 0.5318
+Epoch [15/50], Loss: 2.7614
+Epoch [15/50], Accuracy: 0.7685
+Epoch [15/50], Silhouette Score: 0.6597
+Epoch [15/50], NMI Score: 0.3017
+Epoch [15/50], ARI Score: 0.5191
+Epoch [16/50], Loss: 2.7205
+Epoch [16/50], Accuracy: 0.7266
+Epoch [16/50], Silhouette Score: 0.6180
+Epoch [16/50], NMI Score: 0.3211
+Epoch [16/50], ARI Score: 0.4669
+Epoch [17/50], Loss: 2.6991
+Epoch [17/50], Accuracy: 0.7361
+Epoch [17/50], Silhouette Score: 0.6321
+Epoch [17/50], NMI Score: 0.3454
+Epoch [17/50], ARI Score: 0.5074
+Epoch [18/50], Loss: 2.6771
+Epoch [18/50], Accuracy: 0.7126
+Epoch [18/50], Silhouette Score: 0.6476
+Epoch [18/50], NMI Score: 0.3463
+Epoch [18/50], ARI Score: 0.4576
+Epoch [19/50], Loss: 2.6440
+Epoch [19/50], Accuracy: 0.7771
+Epoch [19/50], Silhouette Score: 0.6752
+Epoch [19/50], NMI Score: 0.3803
+Epoch [19/50], ARI Score: 0.5803
+Epoch [20/50], Loss: 2.6055
+Epoch [20/50], Accuracy: 0.7556
+Epoch [20/50], Silhouette Score: 0.6556
+Epoch [20/50], NMI Score: 0.3704
+Epoch [20/50], ARI Score: 0.5449
+Epoch [21/50], Loss: 2.5909
+Epoch [21/50], Accuracy: 0.7689
+Epoch [21/50], Silhouette Score: 0.6827
+Epoch [21/50], NMI Score: 0.4060
+Epoch [21/50], ARI Score: 0.5658
+Epoch [22/50], Loss: 2.5486
+Epoch [22/50], Accuracy: 0.7941
+Epoch [22/50], Silhouette Score: 0.6769
+Epoch [22/50], NMI Score: 0.4172
+Epoch [22/50], ARI Score: 0.6357
+Epoch [23/50], Loss: 2.5277
+Epoch [23/50], Accuracy: 0.7957
+Epoch [23/50], Silhouette Score: 0.7030
+Epoch [23/50], NMI Score: 0.4222
+Epoch [23/50], ARI Score: 0.6276
+Epoch [24/50], Loss: 2.4931
+Epoch [24/50], Accuracy: 0.7727
+Epoch [24/50], Silhouette Score: 0.6910
+Epoch [24/50], NMI Score: 0.4315
+Epoch [24/50], ARI Score: 0.5922
+Epoch [25/50], Loss: 2.4732
+Epoch [25/50], Accuracy: 0.7767
+Epoch [25/50], Silhouette Score: 0.6974
+Epoch [25/50], NMI Score: 0.4384
+Epoch [25/50], ARI Score: 0.6029
+Epoch [26/50], Loss: 2.4384
+Epoch [26/50], Accuracy: 0.8072
+Epoch [26/50], Silhouette Score: 0.7158
+Epoch [26/50], NMI Score: 0.4676
+Epoch [26/50], ARI Score: 0.6579
+Epoch [27/50], Loss: 2.4171
+Epoch [27/50], Accuracy: 0.7457
+Epoch [27/50], Silhouette Score: 0.6780
+Epoch [27/50], NMI Score: 0.4392
+Epoch [27/50], ARI Score: 0.5379
+Epoch [28/50], Loss: 2.3907
+Epoch [28/50], Accuracy: 0.8168
+Epoch [28/50], Silhouette Score: 0.7160
+Epoch [28/50], NMI Score: 0.5042
+Epoch [28/50], ARI Score: 0.7096
+Epoch [29/50], Loss: 2.3598
+Epoch [29/50], Accuracy: 0.8320
+Epoch [29/50], Silhouette Score: 0.7363
+Epoch [29/50], NMI Score: 0.5220
+Epoch [29/50], ARI Score: 0.7448
+Epoch [30/50], Loss: 2.3321
+Epoch [30/50], Accuracy: 0.8167
+Epoch [30/50], Silhouette Score: 0.7349
+Epoch [30/50], NMI Score: 0.5172
+Epoch [30/50], ARI Score: 0.7198
+Epoch [31/50], Loss: 2.3094
+Epoch [31/50], Accuracy: 0.8159
+Epoch [31/50], Silhouette Score: 0.7115
+Epoch [31/50], NMI Score: 0.5348
+Epoch [31/50], ARI Score: 0.7238
+Epoch [32/50], Loss: 2.2530
+Epoch [32/50], Accuracy: 0.8068
+Epoch [32/50], Silhouette Score: 0.6972
+Epoch [32/50], NMI Score: 0.5511
+Epoch [32/50], ARI Score: 0.6978
+Epoch [33/50], Loss: 2.2541
+Epoch [33/50], Accuracy: 0.8321
+Epoch [33/50], Silhouette Score: 0.7474
+Epoch [33/50], NMI Score: 0.5718
+Epoch [33/50], ARI Score: 0.7783
+Epoch [34/50], Loss: 2.2258
+Epoch [34/50], Accuracy: 0.8071
+Epoch [34/50], Silhouette Score: 0.7296
+Epoch [34/50], NMI Score: 0.5503
+Epoch [34/50], ARI Score: 0.7218
+Epoch [35/50], Loss: 2.1966
+Epoch [35/50], Accuracy: 0.8411
+Epoch [35/50], Silhouette Score: 0.7588
+Epoch [35/50], NMI Score: 0.5883
+Epoch [35/50], ARI Score: 0.7797
+Epoch [36/50], Loss: 2.1730
+Epoch [36/50], Accuracy: 0.8509
+Epoch [36/50], Silhouette Score: 0.7678
+Epoch [36/50], NMI Score: 0.6231
+Epoch [36/50], ARI Score: 0.8316
+Epoch [37/50], Loss: 2.1628
+Epoch [37/50], Accuracy: 0.8592
+Epoch [37/50], Silhouette Score: 0.7783
+Epoch [37/50], NMI Score: 0.5988
+Epoch [37/50], ARI Score: 0.8195
+Epoch [38/50], Loss: 2.1319
+Epoch [38/50], Accuracy: 0.8618
+Epoch [38/50], Silhouette Score: 0.7732
+Epoch [38/50], NMI Score: 0.6386
+Epoch [38/50], ARI Score: 0.8387
+Epoch [39/50], Loss: 2.1211
+Epoch [39/50], Accuracy: 0.8518
+Epoch [39/50], Silhouette Score: 0.7780
+Epoch [39/50], NMI Score: 0.6462
+Epoch [39/50], ARI Score: 0.8454
+Epoch [40/50], Loss: 2.0956
+Epoch [40/50], Accuracy: 0.8805
+Epoch [40/50], Silhouette Score: 0.7835
+Epoch [40/50], NMI Score: 0.6436
+Epoch [40/50], ARI Score: 0.8517
+Epoch [41/50], Loss: 2.0856
+Epoch [41/50], Accuracy: 0.8187
+Epoch [41/50], Silhouette Score: 0.7529
+Epoch [41/50], NMI Score: 0.6396
+Epoch [41/50], ARI Score: 0.7360
+Epoch [42/50], Loss: 2.0634
+Epoch [42/50], Accuracy: 0.8730
+Epoch [42/50], Silhouette Score: 0.7886
+Epoch [42/50], NMI Score: 0.6760
+Epoch [42/50], ARI Score: 0.8818
+Epoch [43/50], Loss: 2.0632
+Epoch [43/50], Accuracy: 0.8804
+Epoch [43/50], Silhouette Score: 0.7994
+Epoch [43/50], NMI Score: 0.6769
+Epoch [43/50], ARI Score: 0.8738
+Epoch [44/50], Loss: 2.0359
+Epoch [44/50], Accuracy: 0.8567
+Epoch [44/50], Silhouette Score: 0.7922
+Epoch [44/50], NMI Score: 0.6837
+Epoch [44/50], ARI Score: 0.8284
+Epoch [45/50], Loss: 2.0378
+Epoch [45/50], Accuracy: 0.8613
+Epoch [45/50], Silhouette Score: 0.7870
+Epoch [45/50], NMI Score: 0.6861
+Epoch [45/50], ARI Score: 0.8649
+Epoch [46/50], Loss: 2.0186
+Epoch [46/50], Accuracy: 0.8745
+Epoch [46/50], Silhouette Score: 0.8043
+Epoch [46/50], NMI Score: 0.6802
+Epoch [46/50], ARI Score: 0.8566
+Epoch [47/50], Loss: 2.0002
+Epoch [47/50], Accuracy: 0.8787
+Epoch [47/50], Silhouette Score: 0.8009
+Epoch [47/50], NMI Score: 0.7026
+Epoch [47/50], ARI Score: 0.8938
+Epoch [48/50], Loss: 2.0041
+Epoch [48/50], Accuracy: 0.8772
+Epoch [48/50], Silhouette Score: 0.8112
+Epoch [48/50], NMI Score: 0.7051
+Epoch [48/50], ARI Score: 0.8978
+Epoch [49/50], Loss: 1.9789
+Epoch [49/50], Accuracy: 0.8753
+Epoch [49/50], Silhouette Score: 0.8138
+Epoch [49/50], NMI Score: 0.7174
+Epoch [49/50], ARI Score: 0.9102
+Epoch [50/50], Loss: 1.9683
+Epoch [50/50], Accuracy: 0.8839
+Epoch [50/50], Silhouette Score: 0.8248
+Epoch [50/50], NMI Score: 0.7156
+Epoch [50/50], ARI Score: 0.9065

@@ -1,0 +1,25 @@
+Sentence 1
+This laptop meets every expectation and Windows 7 is great !
+This: Cluster 0
+laptop: Cluster 0
+meets: Cluster 0
+every: Cluster 1
+expectation: Cluster 1
+Windows: Cluster 2
+7: Cluster 2
+great: Cluster 1
+
+
+Sentence 2
+I charge it at night and skip taking the cord with me because of the good battery life .
+I: Cluster 0
+charge: Cluster 0
+night: Cluster 0
+skip: Cluster 0
+taking: Cluster 0
+cord: Cluster 0
+me: Cluster 0
+because: Cluster 0
+good: Cluster 1
+battery: Cluster 2
+life: Cluster 2
